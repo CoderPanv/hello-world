@@ -1,3 +1,4 @@
 Story.txt
 This is text.
 first.
+second text.
